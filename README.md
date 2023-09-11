@@ -7,6 +7,7 @@
 [![java][java]][java-url]
 [![typescript][typescript]][typescript-url]
 [![crystal][crystal]][crystal-url]
+[![ruby][ruby]][ruby-url]
 
 ## About me:
 - 🎂 `getAge(1999, currentYear)`
@@ -34,6 +35,8 @@ I am part of the best developer community, [**He4rtDevelopers**](https://heartde
 [typescript-url]: https://www.typescriptlang.org/
 [crystal]: https://img.shields.io/badge/Crystal-000000.svg?style=for-the-badge&logo=Crystal&logoColor=white
 [crystal-url]: https://crystal-lang.org/
+[ruby]: https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white
+[ruby-url]: https://www.ruby-lang.org/en/
 
 [linkedin]: https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/william-rodrigues-dev/
