@@ -6,8 +6,6 @@
 [![nodejs][nodejs]][nodejs-url]
 [![java][java]][java-url]
 [![typescript][typescript]][typescript-url]
-[![crystal][crystal]][crystal-url]
-[![ruby][ruby]][ruby-url]
 
 ## About me:
 - 🎂 `getAge(1999, currentYear)`
