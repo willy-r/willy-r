@@ -15,8 +15,6 @@
 
 My name is William Rodrigues, but everyone calls me Will. I study a little about everything, but what I like the most is back-end development. My main technologies are Python, Node.js and Java. I have a little experience working as a developer, but I'm debugging things since **2018**.
 
-I'm part of the best developer community, [**He4rtDevelopers**](https://heartdevs.com/). 💜
-
 ### Social medias
 [![linkedin][linkedin]][linkedin-url]
 [![instagram][instagram]][instagram-url]
