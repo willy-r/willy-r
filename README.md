@@ -14,12 +14,11 @@
 - 🧑🏻‍🎓 ADS at PUC Minas
 - 💼 Fullstack Developer Pleno at **Mutant**
 
-My name is William Rodrigues, but everyone calls me Will. I study a little about everything, but what I like the most is back-end development. My main technologies are Python, Node.js and Java. I have a little experience working as a developer, but I'm debugging things since **2018**.
+My name is William Rodrigues, but everyone calls me Will. I study a little about everything, but what I like the most is back-end development. My main technologies are Python, Node.js and C#. I have a little experience working as a developer, but I'm debugging things since **2018**.
 
 ### Social medias
 [![linkedin][linkedin]][linkedin-url]
 [![instagram][instagram]][instagram-url]
-[![twitter][twitter]][twitter-url]
 
 
 
@@ -42,5 +41,3 @@ My name is William Rodrigues, but everyone calls me Will. I study a little about
 [linkedin-url]: https://www.linkedin.com/in/william-rodrigues-dev/
 [instagram]: https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
 [instagram-url]: https://www.instagram.com/lliw.r/
-[twitter]: https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white
-[twitter-url]: https://twitter.com/lliw_r
