@@ -12,7 +12,7 @@
 - 🎂 `getAge(1999, currentYear)`
 - 💻 Software Developer
 - 🧑🏻‍🎓 ADS at PUC Minas
-- 💼 Fullstack Developer Pleno at **Mutant**
+- 💼 Fullstack Developer Pleno at **Minsait (Indra)**
 
 My name is William Rodrigues, but everyone calls me Will. I study a little about everything, but what I like the most is back-end development. My main technologies are Python, Node.js and C#. I have a little experience working as a developer, but I'm debugging things since **2018**.
 
