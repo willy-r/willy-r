@@ -38,6 +38,6 @@ My name is William Rodrigues, but everyone calls me Will. I study a little about
 [csharp-url]: https://dotnet.microsoft.com/pt-br/languages/csharp
 
 [linkedin]: https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/william-rodrigues-dev/
+[linkedin-url]: https://www.linkedin.com/in/william-rodrigues-dev
 [instagram]: https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
 [instagram-url]: https://www.instagram.com/lliw.r/
