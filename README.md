@@ -3,18 +3,18 @@
 ### Hello there, I'm William! 👋
 
 [![python][python]][python-url]
-[![nodejs][nodejs]][nodejs-url]
+[![typescript][typescript]][typescript-url]
+[![go][go]][go-url]
 [![java][java]][java-url]
 [![csharp][csharp]][csharp-url]
-[![typescript][typescript]][typescript-url]
 
 ## About me:
 - 🎂 `getAge(1999, currentYear)`
-- 💻 Software Developer
+- 💻 AI Engineer & Software Developer
 - 🧑🏻‍🎓 ADS at PUC Minas
 - 💼 Fullstack Developer Pleno at **Minsait (Indra)**
 
-My name is William Rodrigues, but everyone calls me Will. I study a little about everything, but what I like the most is back-end development. My main technologies are Python, Node.js and C#. I have a little experience working as a developer, but I'm debugging things since **2018**.
+My name is William Rodrigues, but everyone calls me Will. I study a little about everything, but what I like the most is back-end development. My main technologies are Python, TypeScript and Go. I have a little experience working as a developer, but I'm debugging things since **2018**.
 
 ### Social medias
 [![linkedin][linkedin]][linkedin-url]
@@ -36,6 +36,8 @@ My name is William Rodrigues, but everyone calls me Will. I study a little about
 [ruby-url]: https://www.ruby-lang.org/en/
 [csharp]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
 [csharp-url]: https://dotnet.microsoft.com/pt-br/languages/csharp
+[go]: https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge
+[go-url]: https://go.dev/
 
 [linkedin]: https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/willsilvarodrigues
