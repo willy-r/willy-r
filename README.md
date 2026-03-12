@@ -5,14 +5,12 @@
 [![python][python]][python-url]
 [![typescript][typescript]][typescript-url]
 [![go][go]][go-url]
-[![java][java]][java-url]
-[![csharp][csharp]][csharp-url]
 
 ## About me:
 - 🎂 `getAge(1999, currentYear)`
 - 💻 AI Engineer & Software Developer
 - 🧑🏻‍🎓 ADS at PUC Minas
-- 💼 Fullstack Developer Pleno at **Minsait (Indra)**
+- 💼 Mid-level Fullstack Developer at **Minsait (Indra)**
 
 My name is William Rodrigues, but everyone calls me Will. I study a little about everything, but what I like the most is back-end development. My main technologies are Python, TypeScript and Go. I have a little experience working as a developer, but I'm debugging things since **2018**.
 
@@ -24,18 +22,8 @@ My name is William Rodrigues, but everyone calls me Will. I study a little about
 
 [python]: https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white
 [python-url]: https://www.python.org/
-[nodejs]: https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white
-[nodejs-url]: https://nodejs.org/en
-[java]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
-[java-url]: https://www.java.com/pt-BR/
 [typescript]: https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white
 [typescript-url]: https://www.typescriptlang.org/
-[crystal]: https://img.shields.io/badge/Crystal-000000.svg?style=for-the-badge&logo=Crystal&logoColor=white
-[crystal-url]: https://crystal-lang.org/
-[ruby]: https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white
-[ruby-url]: https://www.ruby-lang.org/en/
-[csharp]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
-[csharp-url]: https://dotnet.microsoft.com/pt-br/languages/csharp
 [go]: https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge
 [go-url]: https://go.dev/
 
