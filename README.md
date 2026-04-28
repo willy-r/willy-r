@@ -8,9 +8,9 @@
 
 ## About me:
 - 🎂 `getAge(1999, currentYear)`
-- 💻 AI Engineer & Software Developer
-- 🧑🏻‍🎓 ADS at PUC Minas
-- 💼 Mid-level Fullstack Developer at **Minsait (Indra)** | **Vivo Telefonica**
+- 💻 Software Developer
+- 🧑🏻‍🎓 Graduated ADS at PUC Minas
+- 💼 Software Engineer at **Bemobi | Digital Solutions**
 
 My name is William Rodrigues, but everyone calls me Will. I study a little about everything, but what I like the most is back-end development. My main technologies are Python, TypeScript and Go. I have a little experience working as a developer, but I'm debugging things since **2018**.
 
